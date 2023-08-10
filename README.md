@@ -3,7 +3,7 @@
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882"/>
 
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+<img  align="left" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 
 <!--
 **Onebluesky882/Onebluesky882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
