@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wansing)](https://github.com/Onebluesky882/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882)](https://github.com/Onebluesky882/github-readme-stats)
 <!--
 **Onebluesky882/Onebluesky882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
