@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Wansing. 
 
+img<src= "https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=tokyonight"/>
+img<src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882)](https://github.com/Onebluesky882/github-readme-stats"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882)](https://github.com/Onebluesky882/github-readme-stats)
