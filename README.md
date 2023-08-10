@@ -2,8 +2,6 @@
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=tokyonight"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882"/>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882)](https://github.com/Onebluesky882/github-readme-stats)
 
 <img  align="left" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
 
