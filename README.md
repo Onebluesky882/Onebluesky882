@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Wansing. \
+### Hi there 👋 I'm Wansing. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wansing&show_icons=true&theme=radical)
 <!--
