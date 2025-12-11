@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Wansing.
 
 ![Stats](https://github-stats-alpha.vercel.app/api?username=Onebluesky882&cc=222&tc=fff&ic=fff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Onebluesky882&layout=compact&theme=tokyonight)
 
  
 
