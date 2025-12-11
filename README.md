@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Wansing.
 
 ![Stats](https://github-stats-alpha.vercel.app/api?username=Onebluesky882&cc=222&tc=fff&ic=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onebluesky882&layout=compact&theme=tokyonight)
+
  
 
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
